@@ -11,6 +11,8 @@ if ( ! defined( 'WP_ADMIN' ) ) {
 	require_once __DIR__ . '/admin.php';
 }
 
+# este es mi test
+
 /**
  * In case admin-header.php is included in a function.
  *
